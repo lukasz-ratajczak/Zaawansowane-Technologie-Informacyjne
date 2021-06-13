@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b4f4c8b-28f7-40a2-b10c-f451ae172779" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/thymeleafdemo/ThymeleafdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/react/ThymeleafdemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/react/controller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/react/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/thymeleafdemo/dao/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/react/dao/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/thymeleafdemo/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/react/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/react/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/react/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/employees/employee-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/employees/employee-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/luv2code/springboot/thymeleafdemo/ThymeleafdemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/springboot/react/ThymeleafdemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iHRcT2MwxZQkOFFZZmTpkodyCO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coder\Spring Course\thymeleafdemo\src\main\resources\templates\employees" />
+      <recent name="D:\Coder\Spring Course\thymeleafdemo\src\main\resources\static\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coder\Spring Course\thymeleafdemo\src\main\java\com\luv2code\springboot\thymeleafdemo\service" />
+      <recent name="D:\Coder\Spring Course\thymeleafdemo\src\main\java\com\luv2code\springboot\thymeleafdemo\dao" />
+      <recent name="D:\Coder\Spring Course\thymeleafdemo\src\main\java\com\luv2code\springboot\thymeleafdemo\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ThymeleafdemoApplication (1)">
+    <configuration name="ThymeleafdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="thymeleafdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luv2code.springboot.thymeleafdemo.ThymeleafdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="thymeleafdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.thymeleaf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.thymeleaf.ThymeleafdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ThymeleafdemoApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4f4c8b-28f7-40a2-b10c-f451ae172779" name="Default Changelist" comment="" />
+      <created>1601562609054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601562609054</updated>
+      <workItem from="1601562611831" duration="8424000" />
+      <workItem from="1604138423643" duration="13000" />
+      <workItem from="1606652114433" duration="628000" />
+      <workItem from="1608740828315" duration="75000" />
+      <workItem from="1623155903101" duration="605000" />
+      <workItem from="1623524310383" duration="2173000" />
+      <workItem from="1623582554939" duration="1998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1623585183188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183188" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1623585183188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183188" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1623585183187">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1623585183188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183188" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1623585183188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183188" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1623585183188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.center/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183188" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1623585183188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.left/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183188" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1623585183188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.right/1920.121.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1623585183188" />
+  </component>
+</project>
